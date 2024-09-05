@@ -12,6 +12,15 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
+    - name: Create new develop from main
+      run: |
+        git config --global user.name ${{ secrets.MY_GITHUB_NAME }}
+        git config --global user.email ${{ secrets.MY_GITHUB_EMAIL }}
+        git checkout main
+        git pull
+        git branch -d develop
+        git checkout -b develop
+
     - name: Run build_readme.sh
       run: bash ./.scripts/build_readme.sh
 
@@ -24,7 +33,5 @@ jobs:
 
     - name: Push to release branch
       run: |
-        git config --global user.name ${{ secrets.MY_GITHUB_NAME }}
-        git config --global user.email ${{ secrets.MY_GITHUB_EMAIL }}
         git checkout -b release
         git push --force origin release
