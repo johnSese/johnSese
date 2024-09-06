@@ -1,4 +1,7 @@
-<body style="background: #181a1b; color: #e8e6e3">\n\n
+<body style="background: #181a1b; color: #e8e6e3">
+
+
+
 <div align="center">
 
 ![](https://streak-stats.demolab.com?user=johnsese&theme=onedark-duo&border_radius=40&date_format=M%20j%5B%2C%20Y%5D&type=png&hide_current_streak=true)
