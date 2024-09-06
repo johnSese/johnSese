@@ -1,41 +1,25 @@
-<body style="background: #181a1b; color: #e8e6e3">
-
-
-
 <div align="center">
-
-![](https://streak-stats.demolab.com?user=johnsese&theme=onedark-duo&border_radius=40&date_format=M%20j%5B%2C%20Y%5D&type=png&hide_current_streak=true)
-
+    <img src="https://streak-stats.demolab.com?user=johnsese&theme=highcontrast&border_radius=40&date_format=M%20j%5B%2C%20Y%5D&type=svg" />
 </div>
 
-
 <div align="center">
-
-![](https://badges.pufler.dev/gists/johnsese?label=Public%20Gists)
-![](https://badges.pufler.dev/repos/johnsese?label=Public%20Repos)
-![](https://komarev.com/ghpvc/?username=johnsese&color=brightgreen&label=Profile%20Visits)
-
+    <img src="https://badges.pufler.dev/gists/johnsese?label=Public%20Gists" />
+    <img src="https://badges.pufler.dev/repos/johnsese?label=Public%20Repos" />
+    <img src="https://komarev.com/ghpvc/?username=johnsese&color=brightgreen&label=Profile%20Visits" />
 </div>
 
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sesejohn/)
-[![Static Badge](https://img.shields.io/badge/Portfolio-website?style=for-the-badge)](https://www.sesejohn.com)
-[![Email](https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=minutemailer&logoColor=white&color=8B89CC
-)](mailto:work@sesejohn.com)
-
+    <a href="https://www.linkedin.com/in/sesejohn/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.sesejohn.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-website?style=for-the-badge" /></a>
+    <a href="mailto:work@sesejohn.com" target="_blank"><img src="https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=minutemailer&logoColor=white&color=8B89CC" /></a>
 </div>
-
 
 Hey! I'm John from the Philippines, a **web developer**, a **bug hunter**, and **cycling enthusiast**.
 Focusing primarily on backend development and skilled in frontend development.
 
 I'm currently furthering my skills in Laravel, JavaScript, and Vue.js.
 
-
 ## Skills
-
 
 ### Backend Development
 * ![](https://img.shields.io/badge/Laravel-informational?style=flat&logo=laravel&logoColor=white&label=Code&color=%23FF2D20)
@@ -51,11 +35,6 @@ I'm currently furthering my skills in Laravel, JavaScript, and Vue.js.
 * ![](https://img.shields.io/badge/VirtualBox-informational?style=flat&logo=virtualbox&logoColor=white&label=Tools&color=%23183A61)
 * ![Static Badge](https://img.shields.io/badge/FileZilla-informational?style=flat&logo=filezilla&logoColor=white&label=Tools&color=%23BF0000)
 
-
-
-
-
-
 ### Frontend Development
 * ![](https://img.shields.io/badge/JavasScript-informational?style=flat&logo=javascript&logoColor=white&label=Code&color=%23F7DF1E)
 * ![](https://img.shields.io/badge/Vue.js-informational?style=flat&logo=vuedotjs&logoColor=white&label=Code&color=%234FC08D)
@@ -64,21 +43,16 @@ I'm currently furthering my skills in Laravel, JavaScript, and Vue.js.
 * ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&label=Code&color=%231572B6)
 * ![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&label=Code&color=%237952B3)
 
-
 ### Others
 * ![](https://img.shields.io/badge/Chrome_Extensions-informational?style=flat&logo=googlechrome&logoColor=white&label=Code&color=%234285F4)
 * ![](https://img.shields.io/badge/Bash%20Scripting-informational?style=flat&logo=gnubash&logoColor=white&label=Code&color=%234EAA25)
-
 
 ### Version Controls
 * ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&label=Tools&color=%23F05032)
 * ![](https://img.shields.io/badge/GitLab-informational?style=flat&logo=gitlab&logoColor=white&label=Tools&color=%23FC6D26)
 * ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&label=Tools&color=%23181717)
 
-
 ### Project Management
 * ![](https://img.shields.io/badge/Jira-informational?style=flat&logo=jira&logoColor=white&label=Tools&color=%230052CC)
 * ![](https://img.shields.io/badge/Confluence-informational?style=flat&logo=confluence&logoColor=white&label=Tools&color=%23172B4D)
 
-
-</body>
