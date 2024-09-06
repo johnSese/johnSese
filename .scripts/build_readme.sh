@@ -15,7 +15,7 @@ echo "<body style=\"background: #181a1b; color: #e8e6e3\">\n\n" >> "$output"
 # Loop through each numbered folder (e.g., 01. Contacts)
 for dir in [0-9][0-9].*; do
     # Skip hidden folders or folders starting with a dot
-    if [ -d "$dir" ] && [ "$dir" != .* ]; then
+    if [ -d "$dir" ] && [[ "$dir" != .* ]]; then
         # Loop through each markdown file in the current folder (e.g., 01.01 Infographics.md)
         for file in "$dir"/*.md; do
             # Append the content of the markdown file to README.md
